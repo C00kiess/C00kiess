@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @C00kiess
+- 👀 I’m interested in Graphics Programming
+- 🌱 I’m currently learning C++ with GLFW
+- 📫 How to reach me ptcristi27@gmail.com
